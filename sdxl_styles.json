@@ -190,372 +190,372 @@
     "negative_prompt": "line drawing, smooth shading, large color fields, simplistic"
   },
   {
-    "name": "artstyle-pop art",
+    "name": "artstyle-波普艺术",
     "prompt": "Pop Art style {prompt} . bright colors, bold outlines, popular culture themes, ironic or kitsch",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, minimalist"
   },
   {
-    "name": "artstyle-psychedelic",
+    "name": "artstyle-迷幻艺术",
     "prompt": "psychedelic style {prompt} . vibrant colors, swirling patterns, abstract forms, surreal, trippy",
     "negative_prompt": "monochrome, black and white, low contrast, realistic, photorealistic, plain, simple"
   },
   {
-    "name": "artstyle-renaissance",
+    "name": "artstyle-文艺复兴",
     "prompt": "Renaissance style {prompt} . realistic, perspective, light and shadow, religious or mythological themes, highly detailed",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, modernist, minimalist, abstract"
   },
   {
-    "name": "artstyle-steampunk",
+    "name": "artstyle-蒸汽朋克",
     "prompt": "steampunk style {prompt} . antique, mechanical, brass and copper tones, gears, intricate, detailed",
     "negative_prompt": "deformed, glitch, noisy, low contrast, anime, photorealistic"
   },
   {
-    "name": "artstyle-surrealist",
+    "name": "artstyle-超现实主义",
     "prompt": "surrealist art {prompt} . dreamlike, mysterious, provocative, symbolic, intricate, detailed",
     "negative_prompt": "anime, photorealistic, realistic, deformed, glitch, noisy, low contrast"
   },
   {
-    "name": "artstyle-typography",
+    "name": "artstyle-字体艺术",
     "prompt": "typographic art {prompt} . stylized, intricate, detailed, artistic, text-based",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
   },
   {
-    "name": "artstyle-watercolor",
+    "name": "artstyle-水彩",
     "prompt": "watercolor painting {prompt} . vibrant, beautiful, painterly, detailed, textural, artistic",
     "negative_prompt": "anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
   },
   {
-    "name": "futuristic-biomechanical",
+    "name": "futuristic-仿生机械",
     "prompt": "biomechanical style {prompt} . blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate",
     "negative_prompt": "natural, rustic, primitive, organic, simplistic"
   },
   {
-    "name": "futuristic-biomechanical cyberpunk",
+    "name": "futuristic-仿生机械赛博朋克",
     "prompt": "biomechanical cyberpunk {prompt} . cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed",
     "negative_prompt": "natural, colorful, deformed, sketch, low contrast, watercolor"
   },
   {
-    "name": "futuristic-cybernetic",
+    "name": "futuristic-赛博",
     "prompt": "cybernetic style {prompt} . futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
   },
   {
-    "name": "futuristic-cybernetic robot",
+    "name": "futuristic-赛博机器人",
     "prompt": "cybernetic robot {prompt} . android, AI, machine, metal, wires, tech, futuristic, highly detailed",
     "negative_prompt": "organic, natural, human, sketch, watercolor, low contrast"
   },
   {
-    "name": "futuristic-cyberpunk cityscape",
+    "name": "futuristic-赛博朋克城市景观",
     "prompt": "cyberpunk cityscape {prompt} . neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed",
     "negative_prompt": "natural, rural, deformed, low contrast, black and white, sketch, watercolor"
   },
   {
-    "name": "futuristic-futuristic",
+    "name": "futuristic-未来主义",
     "prompt": "futuristic style {prompt} . sleek, modern, ultramodern, high tech, detailed",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vintage, antique"
   },
   {
-    "name": "futuristic-retro cyberpunk",
+    "name": "futuristic-复古赛博朋克",
     "prompt": "retro cyberpunk {prompt} . 80's inspired, synthwave, neon, vibrant, detailed, retro futurism",
     "negative_prompt": "modern, desaturated, black and white, realism, low contrast"
   },
   {
-    "name": "futuristic-retro futurism",
+    "name": "futuristic-复古未来主义",
     "prompt": "retro-futuristic {prompt} . vintage sci-fi, 50s and 60s style, atomic age, vibrant, highly detailed",
     "negative_prompt": "contemporary, realistic, rustic, primitive"
   },
   {
-    "name": "futuristic-sci-fi",
+    "name": "futuristic-科幻",
     "prompt": "sci-fi style {prompt} . futuristic, technological, alien worlds, space themes, advanced civilizations",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
   },
   {
-    "name": "futuristic-vaporwave",
+    "name": "futuristic-蒸汽波",
     "prompt": "vaporwave style {prompt} . retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
     "negative_prompt": "monochrome, muted colors, realism, rustic, minimalist, dark"
   },
   {
-    "name": "game-bubble bobble",
+    "name": "game-泡泡龙",
     "prompt": "Bubble Bobble style {prompt} . 8-bit, cute, pixelated, fantasy, vibrant, reminiscent of Bubble Bobble game",
     "negative_prompt": "realistic, modern, photorealistic, violent, horror"
   },
   {
-    "name": "game-cyberpunk game",
+    "name": "game-赛博朋克游戏",
     "prompt": "cyberpunk game style {prompt} . neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games",
     "negative_prompt": "historical, natural, rustic, low detailed"
   },
   {
-    "name": "game-fighting game",
+    "name": "game-格斗游戏",
     "prompt": "fighting game style {prompt} . dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games",
     "negative_prompt": "peaceful, calm, minimalist, photorealistic"
   },
   {
-    "name": "game-gta",
+    "name": "game-GTA",
     "prompt": "GTA-style artwork {prompt} . satirical, exaggerated, pop art style, vibrant colors, iconic characters, action-packed",
     "negative_prompt": "realistic, black and white, low contrast, impressionist, cubist, noisy, blurry, deformed"
   },
   {
-    "name": "game-mario",
+    "name": "game-超级玛丽",
     "prompt": "Super Mario style {prompt} . vibrant, cute, cartoony, fantasy, playful, reminiscent of Super Mario series",
     "negative_prompt": "realistic, modern, horror, dystopian, violent"
   },
   {
-    "name": "game-minecraft",
+    "name": "game-我的世界",
     "prompt": "Minecraft style {prompt} . blocky, pixelated, vibrant colors, recognizable characters and objects, game assets",
     "negative_prompt": "smooth, realistic, detailed, photorealistic, noise, blurry, deformed"
   },
   {
-    "name": "game-pokemon",
+    "name": "game-口袋妖怪",
     "prompt": "Pokémon style {prompt} . vibrant, cute, anime, fantasy, reminiscent of Pokémon series",
     "negative_prompt": "realistic, modern, horror, dystopian, violent"
   },
   {
-    "name": "game-retro arcade",
+    "name": "game-复古接机",
     "prompt": "retro arcade style {prompt} . 8-bit, pixelated, vibrant, classic video game, old school gaming, reminiscent of 80s and 90s arcade games",
     "negative_prompt": "modern, ultra-high resolution, photorealistic, 3D"
   },
   {
-    "name": "game-retro game",
+    "name": "game-复古16位游戏",
     "prompt": "retro game art {prompt} . 16-bit, vibrant colors, pixelated, nostalgic, charming, fun",
     "negative_prompt": "realistic, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
   },
   {
-    "name": "game-rpg fantasy game",
+    "name": "game-RPG冒险游戏",
     "prompt": "role-playing game (RPG) style fantasy {prompt} . detailed, vibrant, immersive, reminiscent of high fantasy RPG games",
     "negative_prompt": "sci-fi, modern, urban, futuristic, low detailed"
   },
   {
-    "name": "game-strategy game",
+    "name": "game-战略游戏",
     "prompt": "strategy game style {prompt} . overhead view, detailed map, units, reminiscent of real-time strategy video games",
     "negative_prompt": "first-person view, modern, photorealistic"
   },
   {
-    "name": "game-streetfighter",
+    "name": "game-街霸",
     "prompt": "Street Fighter style {prompt} . vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series",
     "negative_prompt": "3D, realistic, modern, photorealistic, turn-based strategy"
   },
   {
-    "name": "game-zelda",
+    "name": "game-塞尔达",
     "prompt": "Legend of Zelda style {prompt} . vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series",
     "negative_prompt": "sci-fi, modern, realistic, horror"
   },
   {
-    "name": "misc-architectural",
+    "name": "misc-建筑",
     "prompt": "architectural style {prompt} . clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed",
     "negative_prompt": "curved lines, ornate, baroque, abstract, grunge"
   },
   {
-    "name": "misc-disco",
+    "name": "misc-迪斯科",
     "prompt": "disco-themed {prompt} . vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed",
     "negative_prompt": "minimalist, rustic, monochrome, contemporary, simplistic"
   },
   {
-    "name": "misc-dreamscape",
+    "name": "misc-梦境",
     "prompt": "dreamscape {prompt} . surreal, ethereal, dreamy, mysterious, fantasy, highly detailed",
     "negative_prompt": "realistic, concrete, ordinary, mundane"
   },
   {
-    "name": "misc-dystopian",
+    "name": "misc-反乌托邦",
     "prompt": "dystopian style {prompt} . bleak, post-apocalyptic, somber, dramatic, highly detailed",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful"
   },
   {
-    "name": "misc-fairy tale",
+    "name": "misc-童话",
     "prompt": "fairy tale {prompt} . magical, fantastical, enchanting, storybook style, highly detailed",
     "negative_prompt": "realistic, modern, ordinary, mundane"
   },
   {
-    "name": "misc-gothic",
+    "name": "misc-哥特式",
     "prompt": "gothic style {prompt} . dark, mysterious, haunting, dramatic, ornate, detailed",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, cheerful, optimistic"
   },
   {
-    "name": "misc-grunge",
+    "name": "misc-破旧风",
     "prompt": "grunge style {prompt} . textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy",
     "negative_prompt": "smooth, clean, minimalist, sleek, modern, photorealistic"
   },
   {
-    "name": "misc-horror",
+    "name": "misc-恐怖风",
     "prompt": "horror-themed {prompt} . eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed",
     "negative_prompt": "cheerful, bright, vibrant, light-hearted, cute"
   },
   {
-    "name": "misc-kawaii",
+    "name": "misc-可爱风",
     "prompt": "kawaii style {prompt} . cute, adorable, brightly colored, cheerful, anime influence, highly detailed",
     "negative_prompt": "dark, scary, realistic, monochrome, abstract"
   },
   {
-    "name": "misc-lovecraftian",
+    "name": "misc-克苏鲁",
     "prompt": "lovecraftian horror {prompt} . eldritch, cosmic horror, unknown, mysterious, surreal, highly detailed",
     "negative_prompt": "light-hearted, mundane, familiar, simplistic, realistic"
   },
   {
-    "name": "misc-macabre",
+    "name": "misc-死亡风",
     "prompt": "macabre style {prompt} . dark, gothic, grim, haunting, highly detailed",
     "negative_prompt": "bright, cheerful, light-hearted, cartoonish, cute"
   },
   {
-    "name": "misc-manga",
+    "name": "misc-漫画",
     "prompt": "manga style {prompt} . vibrant, high-energy, detailed, iconic, Japanese comic style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, Western comic style"
   },
   {
-    "name": "misc-metropolis",
+    "name": "misc-大都会",
     "prompt": "metropolis-themed {prompt} . urban, cityscape, skyscrapers, modern, futuristic, highly detailed",
     "negative_prompt": "rural, natural, rustic, historical, simple"
   },
   {
-    "name": "misc-minimalist",
+    "name": "misc-极简主义",
     "prompt": "minimalist style {prompt} . simple, clean, uncluttered, modern, elegant",
     "negative_prompt": "ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"
   },
   {
-    "name": "misc-monochrome",
+    "name": "misc-黑白",
     "prompt": "monochrome {prompt} . black and white, contrast, tone, texture, detailed",
     "negative_prompt": "colorful, vibrant, noisy, blurry, deformed"
   },
   {
-    "name": "misc-nautical",
+    "name": "misc-航海",
     "prompt": "nautical-themed {prompt} . sea, ocean, ships, maritime, beach, marine life, highly detailed",
     "negative_prompt": "landlocked, desert, mountains, urban, rustic"
   },
   {
-    "name": "misc-space",
+    "name": "misc-太空",
     "prompt": "space-themed {prompt} . cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed",
     "negative_prompt": "earthly, mundane, ground-based, realism"
   },
   {
-    "name": "misc-stained glass",
+    "name": "misc-彩色玻璃",
     "prompt": "stained glass style {prompt} . vibrant, beautiful, translucent, intricate, detailed",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
   },
   {
-    "name": "misc-techwear fashion",
+    "name": "misc-穿戴设备",
     "prompt": "techwear fashion {prompt} . futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed",
     "negative_prompt": "vintage, rural, colorful, low contrast, realism, sketch, watercolor"
   },
   {
-    "name": "misc-tribal",
+    "name": "misc-部落",
     "prompt": "tribal style {prompt} . indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed",
     "negative_prompt": "modern, futuristic, minimalist, pastel"
   },
   {
-    "name": "misc-zentangle",
+    "name": "misc-禅绕",
     "prompt": "zentangle {prompt} . intricate, abstract, monochrome, patterns, meditative, highly detailed",
     "negative_prompt": "colorful, representative, simplistic, large fields of color"
   },
   {
-    "name": "papercraft-collage",
+    "name": "papercraft-拼贴风格",
     "prompt": "collage style {prompt} . mixed media, layered, textural, detailed, artistic",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
   },
   {
-    "name": "papercraft-flat papercut",
+    "name": "papercraft-平面剪纸",
     "prompt": "flat papercut style {prompt} . silhouette, clean cuts, paper, sharp edges, minimalist, color block",
     "negative_prompt": "3D, high detail, noise, grainy, blurry, painting, drawing, photo, disfigured"
   },
   {
-    "name": "papercraft-kirigami",
+    "name": "papercraft-日本剪纸",
     "prompt": "kirigami representation of {prompt} . 3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines",
     "negative_prompt": "painting, drawing, 2D, noisy, blurry, deformed"
   },
   {
-    "name": "papercraft-paper mache",
+    "name": "papercraft-折纸塑性",
     "prompt": "paper mache representation of {prompt} . 3D, sculptural, textured, handmade, vibrant, fun",
     "negative_prompt": "2D, flat, photo, sketch, digital art, deformed, noisy, blurry"
   },
   {
-    "name": "papercraft-paper quilling",
+    "name": "papercraft-卷纸艺术",
     "prompt": "paper quilling art of {prompt} . intricate, delicate, curling, rolling, shaping, coiling, loops, 3D, dimensional, ornamental",
     "negative_prompt": "photo, painting, drawing, 2D, flat, deformed, noisy, blurry"
   },
   {
-    "name": "papercraft-papercut collage",
+    "name": "papercraft-剪纸拼贴",
     "prompt": "papercut collage of {prompt} . mixed media, textured paper, overlapping, asymmetrical, abstract, vibrant",
     "negative_prompt": "photo, 3D, realistic, drawing, painting, high detail, disfigured"
   },
   {
-    "name": "papercraft-papercut shadow box",
+    "name": "papercraft-剪纸影箱",
     "prompt": "3D papercut shadow box of {prompt} . layered, dimensional, depth, silhouette, shadow, papercut, handmade, high contrast",
     "negative_prompt": "painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
   },
   {
-    "name": "papercraft-stacked papercut",
+    "name": "papercraft-剪纸层叠",
     "prompt": "stacked papercut art of {prompt} . 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast",
     "negative_prompt": "2D, flat, noisy, blurry, painting, drawing, photo, deformed"
   },
   {
-    "name": "papercraft-thick layered papercut",
+    "name": "papercraft-厚层剪纸",
     "prompt": "thick layered papercut art of {prompt} . deep 3D, volumetric, dimensional, depth, thick paper, high stack, heavy texture, tangible layers",
     "negative_prompt": "2D, flat, thin paper, low stack, smooth texture, painting, drawing, photo, deformed"
   },
   {
-    "name": "photo-alien",
+    "name": "photo-异形",
     "prompt": "alien-themed {prompt} . extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed",
     "negative_prompt": "earthly, mundane, common, realistic, simple"
   },
   {
-    "name": "photo-film noir",
+    "name": "photo-黑色电影",
     "prompt": "film noir style {prompt} . monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
   },
   {
-    "name": "photo-hdr",
+    "name": "photo-HDR",
     "prompt": "HDR photo of {prompt} . High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed",
     "negative_prompt": "flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
   },
   {
-    "name": "photo-long exposure",
+    "name": "photo-长曝",
     "prompt": "long exposure photo of {prompt} . Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
     "negative_prompt": "static, noisy, deformed, shaky, abrupt, flat, low contrast"
   },
   {
-    "name": "photo-neon noir",
+    "name": "photo-霓虹黑暗",
     "prompt": "neon noir {prompt} . cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed",
     "negative_prompt": "bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
   },
   {
-    "name": "photo-silhouette",
+    "name": "photo-剪影",
     "prompt": "silhouette style {prompt} . high contrast, minimalistic, black and white, stark, dramatic",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
   },
   {
-    "name": "photo-tilt-shift",
+    "name": "photo-移轴摄影",
     "prompt": "tilt-shift photo of {prompt} . Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control",
     "negative_prompt": "blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
   },
   {
-    "name": "***Diva_Styles_Start***",
+    "name": "Diva-电影风格",
     "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition",
     "negative_prompt": "ugly, deformed, noisy, blurry, NSFW"
   },
   {
-    "name": "Abstract Expressionism",
+    "name": "抽象表现主义",
     "prompt": "Abstract Expressionism Art, {prompt}, High contrast, minimalistic, colorful, stark, dramatic, expressionism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
   },
   {
-    "name": "Academia",
+    "name": "学术风格",
     "prompt": "Academia, {prompt}, preppy Ivy League style, stark, dramatic, chic boarding school, academia",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt"
   },
   {
-    "name": "Action Figure",
+    "name": "手办",
     "prompt": "Action Figure, {prompt}, plastic collectable action figure, collectable toy action figure",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Adorable 3D Character",
+    "name": "可爱风3D角色",
     "prompt": "Adorable 3D Character, {prompt}, 3D render, adorable character, 3D art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, grunge, sloppy, unkempt, photograph, photo, realistic"
   },
   {
-    "name": "Adorable Kawaii",
+    "name": "卡哇伊可爱风",
     "prompt": "Adorable Kawaii, {prompt}, pretty, cute, adorable, kawaii",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, gothic, dark, moody, monochromatic"
   },
   {
-    "name": "Art Deco",
+    "name": "装饰艺术",
     "prompt": "Art Deco, {prompt}, sleek, geometric forms, art deco style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
