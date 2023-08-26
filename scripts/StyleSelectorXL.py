@@ -11,7 +11,7 @@ stylespath = ""
 
 def get_json_content(file_path):
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             json_data = json.load(file)
             return json_data
     except Exception as e:
@@ -142,10 +142,10 @@ class StyleSelectorXL(scripts.Script):
 
                 if style_ui_type == "select-list":
                     style = gr.Dropdown(
-                        self.styleNames, value='base', multiselect=False, label="Select Style")
+                        self.styleNames, value='None', multiselect=False, label="Select Style")
                 else:
                     style = gr.Radio(
-                        label='Style', choices=self.styleNames, value='base')
+                        label='Style', choices=self.styleNames, value='None')
 
         # Ignore the error if the attribute is not present
 
