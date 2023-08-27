@@ -525,7 +525,7 @@
     "negative_prompt": "blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
   },
   {
-    "name": "Diva-电影风格",
+    "name": "Diva-开始",
     "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition",
     "negative_prompt": "ugly, deformed, noisy, blurry, NSFW"
   },
@@ -560,367 +560,367 @@
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Art Nouveau",
+    "name": "新艺术风格",
     "prompt": "Art Nouveau, beautiful art, {prompt}, sleek, organic forms, long, sinuous, art nouveau style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, industrial, mechanical"
   },
   {
-    "name": "Astral Aura",
+    "name": "星体光环",
     "prompt": "Astral Aura, {prompt}, astral, colorful aura, vibrant energy",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Avant-garde",
+    "name": "前卫风格",
     "prompt": "Avant-garde, {prompt}, unusual, experimental, avant-garde art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Baroque",
+    "name": "巴洛克风格",
     "prompt": "Baroque, {prompt}, dramatic, exuberant, grandeur, baroque art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Bauhaus-Style Poster",
+    "name": "包豪斯风格海报",
     "prompt": "Bauhaus-Style Poster, {prompt}, simple geometric shapes, clean lines, primary colors, Bauhaus-Style Poster",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Blueprint Schematic Drawing",
+    "name": "蓝图风格",
     "prompt": "Blueprint Schematic Drawing, {prompt}, technical drawing, blueprint, schematic",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Caricature",
+    "name": "夸张漫画",
     "prompt": "Caricature, {prompt}, exaggerated, comical, caricature",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
   },
   {
-    "name": "Cel Shaded Art",
+    "name": "卡通渲染",
     "prompt": "Cel Shaded Art, {prompt}, 2D, flat color, toon shading, cel shaded style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Character Design Sheet",
+    "name": "角色设计",
     "prompt": "Character Design Sheet, {prompt}, character reference sheet, character turn around",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Classicism Art",
+    "name": "古典主义艺术",
     "prompt": "Classicism Art, {prompt}, inspired by Roman and Greek culture, clarity, harmonious, classicism art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Color Field Painting",
+    "name": "色块绘画",
     "prompt": "Color Field Painting, {prompt}, abstract, simple, geometic, color field painting style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Colored Pencil Art",
+    "name": "彩铅",
     "prompt": "Colored Pencil Art, {prompt}, colored pencil strokes, light color, visible paper texture, colored pencil art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Conceptual Art",
+    "name": "概念艺术",
     "prompt": "Conceptual Art, {prompt}, concept art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Constructivism",
+    "name": "建构主义",
     "prompt": "Constructivism Art, {prompt}, minimalistic, geometric forms, constructivism art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Cubism",
+    "name": "立体主义",
     "prompt": "Cubism Art, {prompt}, flat geometric forms, cubism art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Dadaism",
+    "name": "达达主义",
     "prompt": "Dadaism Art, {prompt}, satirical, nonsensical, dadaism art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Dark Fantasy",
+    "name": "暗黑奇幻",
     "prompt": "Dark Fantasy Art, {prompt}, dark, moody, dark fantasy style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, bright, sunny"
   },
   {
-    "name": "Dark Moody Atmosphere",
+    "name": "暗黑氛围",
     "prompt": "Dark Moody Atmosphere, {prompt}, dramatic, mysterious, dark moody atmosphere",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful, bright"
   },
   {
-    "name": "DMT Art Style",
+    "name": "DMT艺术风格（致幻剂）",
     "prompt": "DMT Art Style, {prompt}, bright colors, surreal visuals, swirling patterns, DMT art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Doodle Art",
+    "name": "涂鸦艺术",
     "prompt": "Doodle Art Style, {prompt}, drawing, freeform, swirling patterns, doodle art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Double Exposure",
+    "name": "双重曝光",
     "prompt": "Double Exposure Style, {prompt}, double image ghost effect, image combination, double exposure style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Dripping Paint Splatter Art",
+    "name": "滴漏涂鸦",
     "prompt": "Dripping Paint Splatter Art, {prompt}, dramatic, paint drips, splatters, dripping paint",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Expressionism",
+    "name": "表现主义",
     "prompt": "Expressionism Art Style, {prompt}, movement, contrast, emotional, exaggerated forms, expressionism art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Faded Polaroid Photo",
+    "name": "褪色拍立得照片",
     "prompt": "Faded Polaroid Photo, {prompt}, analog, old faded photo, old polaroid",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, vibrant, colorful"
   },
   {
-    "name": "Fauvism",
+    "name": "野兽派",
     "prompt": "Fauvism Art, {prompt}, painterly, bold colors, textured brushwork, fauvism art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Flat 2D Art",
+    "name": "平面二维艺术",
     "prompt": "Flat 2D Art, {prompt}, simple flat color, 2-dimensional, Flat 2D Art Style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
   },
   {
-    "name": "Fortnite Art Style",
+    "name": "堡垒之夜风格",
     "prompt": "Fortnite Art Style, {prompt}, 3D cartoon, colorful, Fortnite Art Style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
   },
   {
-    "name": "Futurism",
+    "name": "未来主义",
     "prompt": "Futurism Art Style, {prompt}, dynamic, dramatic, Futurism Art Style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Glitchcore",
+    "name": "故障核心风格",
     "prompt": "Glitchcore Art Style, {prompt}, dynamic, dramatic, distorted, vibrant colors, glitchcore art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Glo-fi",
+    "name": "Glo-fi风格",
     "prompt": "Glo-fi Art Style, {prompt}, dynamic, dramatic, vibrant colors, glo-fi art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Googie Art Style",
+    "name": "Googie风格",
     "prompt": "Googie Art Style, {prompt}, dynamic, dramatic, 1950's futurism, bold boomerang angles, Googie art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Graffiti Art",
+    "name": "涂鸦艺术",
     "prompt": "Graffiti Art Style, {prompt}, dynamic, dramatic, vibrant colors, graffiti art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Harlem Renaissance Art",
+    "name": "哈莱姆复兴艺术",
     "prompt": "Harlem Renaissance Art Style, {prompt}, dynamic, dramatic, 1920s African American culture, Harlem Renaissance art style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "High Fashion",
+    "name": "高级时装",
     "prompt": "High Fashion, {prompt}, dynamic, dramatic, haute couture, elegant, ornate clothing, High Fashion",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Idyllic",
+    "name": "田园风格",
     "prompt": "Idyllic, {prompt}, peaceful, happy, pleasant, happy, harmonious, picturesque, charming",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Impressionism",
+    "name": "印象主义",
     "prompt": "Impressionism, {prompt}, painterly, small brushstrokes, visible brushstrokes, impressionistic style",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Infographic Drawing",
+    "name": "信息图绘画",
     "prompt": "Infographic Drawing, {prompt}, diagram, infographic",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Ink Dripping Drawing",
+    "name": "滴墨绘画",
     "prompt": "Ink Dripping Drawing, {prompt}, ink drawing, dripping ink",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
   },
   {
-    "name": "Japanese Ink Drawing",
+    "name": "日本墨画",
     "prompt": "Japanese Ink Drawing, {prompt}, ink drawing, inkwash, Japanese Ink Drawing",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, colorful, vibrant"
   },
   {
-    "name": "Knolling Photography",
+    "name": "整齐摄影",
     "prompt": "Knolling Photography, {prompt}, flat lay photography, object arrangment, knolling photography",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Light Cheery Atmosphere",
+    "name": "明快小清新",
     "prompt": "Light Cheery Atmosphere, {prompt}, happy, joyful, cheerful, carefree, gleeful, lighthearted, pleasant atmosphere",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, monochromatic, dark, moody"
   },
   {
-    "name": "Logo Design",
+    "name": "Logo设计",
     "prompt": "Logo Design, {prompt}, dynamic graphic art, vector art, minimalist, professional logo design",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Luxurious Elegance",
+    "name": "奢华优雅",
     "prompt": "Luxurious Elegance, {prompt}, extravagant, ornate, designer, opulent, picturesque, lavish",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Macro Photography",
+    "name": "微距摄影",
     "prompt": "Macro Photography, {prompt}, close-up, macro 100mm, macro photography",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Mandola Art",
+    "name": "曼陀罗艺术",
     "prompt": "Mandola art style, {prompt}, complex, circular design, mandola",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Marker Drawing",
+    "name": "马克笔绘画",
     "prompt": "Marker Drawing, {prompt}, bold marker lines, visibile paper texture, marker drawing",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
   },
   {
-    "name": "Medievalism",
+    "name": "中世纪主义",
     "prompt": "Medievalism, {prompt}, inspired by The Middle Ages, medieval art, elaborate patterns and decoration, Medievalism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Minimalism",
+    "name": "极简主义",
     "prompt": "Minimalism, {prompt}, abstract, simple geometic shapes, hard edges, sleek contours, Minimalism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Neo-Baroque",
+    "name": "新巴洛克风格",
     "prompt": "Neo-Baroque, {prompt}, ornate and elaborate, dynaimc, Neo-Baroque",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Neo-Byzantine",
+    "name": "新拜占庭风格",
     "prompt": "Neo-Byzantine, {prompt}, grand decorative religious style, Orthodox Christian inspired, Neo-Byzantine",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Neo-Futurism",
+    "name": "新未来主义",
     "prompt": "Neo-Futurism, {prompt}, high-tech, curves, spirals, flowing lines, idealistic future, Neo-Futurism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Neo-Impressionism",
+    "name": "新印象主义",
     "prompt": "Neo-Impressionism, {prompt}, tiny dabs of color, Pointillism, painterly, Neo-Impressionism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photograph, realistic"
   },
   {
-    "name": "Neo-Rococo",
+    "name": "新洛可可风格",
     "prompt": "Neo-Rococo, {prompt}, curved forms, naturalistic ornamentation, elaborate, decorative, gaudy, Neo-Rococo",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Neoclassicism",
+    "name": "新古典主义",
     "prompt": "Neoclassicism, {prompt}, ancient Rome and Greece inspired, idealic, sober colors, Neoclassicism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Op Art",
+    "name": "光学艺术",
     "prompt": "Op Art, {prompt}, optical illusion, abstract, geometric pattern, impression of movement, Op Art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Ornate and Intricate",
+    "name": "华丽复杂风格",
     "prompt": "Ornate and Intricate, {prompt}, decorative, highly detailed, elaborate, ornate, intricate",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Pencil Sketch Drawing",
+    "name": "铅笔素描",
     "prompt": "Pencil Sketch Drawing, {prompt}, black and white drawing, graphite drawing",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Pop Art 2",
+    "name": "波普艺术2",
     "prompt": "Pop Art, {prompt}, vivid colors, flat color, 2D, strong lines, Pop Art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
   },
   {
-    "name": "Rococo",
+    "name": "洛可可风格",
     "prompt": "Rococo, {prompt}, flamboyant, pastel colors, curved lines, elaborate detail, Rococo",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Silhouette Art",
+    "name": "剪影艺术",
     "prompt": "Silhouette Art, {prompt}, high contrast, well defined, Silhouette Art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Simple Vector Art",
+    "name": "简洁矢量艺术",
     "prompt": "Simple Vector Art, {prompt}, 2D flat, simple shapes, minimalistic, professional graphic, flat color, high contrast, Simple Vector Art",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, 3D, photo, realistic"
   },
   {
-    "name": "Sketchup",
+    "name": "三维建模",
     "prompt": "Sketchup, {prompt}, CAD, professional design, Sketchup",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, photograph"
   },
   {
-    "name": "Steampunk 2",
+    "name": "蒸汽朋克2",
     "prompt": "Steampunk, {prompt}, retrofuturistic science fantasy, steam-powered tech, vintage industry, gears, neo-victorian, steampunk",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Surrealism",
+    "name": "超现实主义",
     "prompt": "Surrealism, {prompt}, expressive, dramatic, organic lines and forms, dreamlike and mysterious, Surrealism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
   },
   {
-    "name": "Suprematism",
+    "name": "超级主义",
     "prompt": "Suprematism, {prompt}, abstract, limited color palette, geometric forms, Suprematism",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
   },
   {
-    "name": "Terragen",
+    "name": "自然环境建模",
     "prompt": "Terragen, {prompt}, beautiful massive landscape, epic scenery, Terragen",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Tranquil Relaxing Atmosphere",
+    "name": "入定氛围",
     "prompt": "Tranquil Relaxing Atmosphere, {prompt}, calming style, soothing colors, peaceful, idealic, Tranquil Relaxing Atmosphere",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, oversaturated"
   },
   {
-    "name": "Sticker Designs",
+    "name": "贴纸设计",
     "prompt": "Vector Art Stickers, {prompt}, professional vector design, sticker designs, Sticker Sheet",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Vibrant Rim Light",
+    "name": "边缘亮光",
     "prompt": "Vibrant Rim Light, {prompt}, bright rim light, high contrast, bold edge light",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Volumetric Lighting",
+    "name": "体积光",
     "prompt": "Volumetric Lighting, {prompt}, light depth, dramatic atmospheric lighting, Volumetric Lighting",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
   },
   {
-    "name": "Watercolor 2",
+    "name": "水彩2",
     "prompt": "Watercolor style painting, {prompt}, visible paper texture, colorwash, watercolor",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, photo, realistic"
   },
   {
-    "name": "Whimsical and Playful",
+    "name": "奇幻快乐",
     "prompt": "Whimsical and Playful, {prompt}, imaginative, fantastical, bight colors, stylized, happy, Whimsical and Playful",
     "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, drab, boring, moody"
   },
   {
-    "name": "***Diva_Styles_End***",
+    "name": "Diva-结束",
     "prompt": "UHD, 8K, ultra detailed, a cinematic photograph of {prompt}, beautiful lighting, great composition",
     "negative_prompt": "ugly, deformed, noisy, blurry, NSFW"
   }
