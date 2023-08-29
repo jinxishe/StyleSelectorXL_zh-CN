@@ -116,21 +116,21 @@ class StyleSelectorXL(scripts.Script):
         return "Style Selector for SDXL 1.0"
 
     def show(self, is_img2img):
+        # print(dir(scripts))
         return scripts.AlwaysVisible
 
     def ui(self, is_img2img):
         with gr.Group():
-            with gr.Accordion("SDXL Styles", open=True):
+            # with gr.Accordion("SDXL Styles", open=True):
+            with gr.Accordion("SDXL Styles", open=False):
                 with FormRow():
                     with FormColumn(min_width=160):
-                        is_enabled = gr.Checkbox(
-                            value=True, label="Enable Style Selector", info="Enable Or Disable Style Selector ")
+                        # is_enabled = gr.Checkbox(value=True, label="Enable Style Selector", info="Enable Or Disable Style Selector ")
+                        is_enabled = gr.Checkbox(value=False, label="Enable Style Selector", info="Enable Or Disable Style Selector ")
                     with FormColumn(elem_id="Randomize Style"):
-                        randomize = gr.Checkbox(
-                            value=False, label="Randomize Style", info="This Will Override Selected Style")
+                        randomize = gr.Checkbox(value=False, label="Randomize Style", info="This Will Override Selected Style")
                     with FormColumn(elem_id="Randomize For Each Iteration"):
-                        randomizeEach = gr.Checkbox(
-                            value=False, label="Randomize For Each Iteration", info="Every prompt in Batch Will Have Random Style")
+                        randomizeEach = gr.Checkbox(value=False, label="Randomize For Each Iteration", info="Every prompt in Batch Will Have Random Style")
 
                 with FormRow():
                     with FormColumn(min_width=160):
